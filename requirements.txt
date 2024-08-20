@@ -1,7 +1,7 @@
 openpyxl
 pandas
-pywin32
-pywinpty
 streamlit
 XlsxWriter
 xlwings
+csv
+shutil
