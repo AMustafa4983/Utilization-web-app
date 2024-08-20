@@ -1,7 +1,7 @@
-openpyxl==3.1.2
-pandas==2.2.0
-pywin32==306
-pywinpty==2.0.13
-streamlit==1.36.0
-XlsxWriter==3.2.0
-xlwings==0.32.1
+openpyxl
+pandas
+pywin32
+pywinpty
+streamlit
+XlsxWriter
+xlwings
