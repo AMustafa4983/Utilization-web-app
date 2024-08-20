@@ -3,5 +3,4 @@ pandas
 streamlit
 XlsxWriter
 xlwings
-csv
 shutil
